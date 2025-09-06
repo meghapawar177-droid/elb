@@ -1,9 +1,0 @@
-Architecture
-
-User Registration & Login – Users register/login via Cognito.
-
-Token-Based Authentication – Cognito issues a JWT token upon successful login.
-
-API Gateway with Cognito Authorizer – Verifies JWT token before allowing access.
-
-Lambda Function – Executes business logic and returns the response.
