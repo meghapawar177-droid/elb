@@ -10,5 +10,3 @@ Amazon API Gateway to expose APIs securely with Cognito authentication.
 https://github.com/meghapawar177-droid/elb/blob/7adeeefcb9da9016031f5acff85595037415ce35/cognito%20img.png
 
 ![image alt](https://github.com/meghapawar177-droid/elb/blob/7adeeefcb9da9016031f5acff85595037415ce35/cognito%20img.png)
-![image_alt](https://github.com/meghapawar177-droid/elb/blob/0b79e071e18d36ef041d120796ae9f3478e9b453/new/flower.jpg)
-
